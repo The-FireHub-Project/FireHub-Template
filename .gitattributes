@@ -44,3 +44,6 @@
 .gitattributes text
 .gitignore     text
 .editorconfig  text
+
+# Composer lock file
+composer.lock text
