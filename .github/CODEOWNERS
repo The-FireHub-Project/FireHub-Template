@@ -1,3 +1,6 @@
+# Repo-wide fallback
+* @The-FireHub-Project/admin-team
+
 # CODEOWNERS file will be handled by the organization administrators.
 /.github/CODEOWNERS @The-FireHub-Project/admin-team
 
@@ -8,6 +11,3 @@
 /*.editorconfig @The-FireHub-Project/maintainers
 /*.gitattributes @The-FireHub-Project/maintainers
 /*.gitignore @The-FireHub-Project/maintainers
-
-# Repo-wide fallback
-* @The-FireHub-Project/maintainers
