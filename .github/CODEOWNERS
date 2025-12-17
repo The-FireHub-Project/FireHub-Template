@@ -1,13 +1,13 @@
 # CODEOWNERS file will be handled by the organization administrators.
-/.github/CODEOWNERS @Admin Team
+/.github/CODEOWNERS @The-FireHub-Project/admin-team
 
 # GitHub configs, IDE settings, etc.
-/.github/ @Maintainers
+/.github/ @The-FireHub-Project/maintainers
 
 # Editor configs, gitattributes, gitignore, etc.
-/*.editorconfig @Maintainers
-/*.gitattributes @Maintainers
-/*.gitignore @Maintainers
+/*.editorconfig @The-FireHub-Project/maintainers
+/*.gitattributes @The-FireHub-Project/maintainers
+/*.gitignore @The-FireHub-Project/maintainers
 
 # Repo-wide fallback
-* @Maintainers
+* @The-FireHub-Project/maintainers
