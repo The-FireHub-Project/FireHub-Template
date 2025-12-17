@@ -1,0 +1,13 @@
+# CODEOWNERS file will be handled by the organization administrators.
+/.github/CODEOWNERS @Admin Team
+
+# GitHub configs, IDE settings, etc.
+/.github/ @Maintainers
+
+# Editor configs, gitattributes, gitignore, etc.
+/*.editorconfig @Maintainers
+/*.gitattributes @Maintainers
+/*.gitignore @Maintainers
+
+# Repo-wide fallback
+* @Maintainers
