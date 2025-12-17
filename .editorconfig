@@ -49,6 +49,18 @@ indent_size = 2
 [*.json]
 indent_size = 2
 
+# XML files
+[*.xml]
+indent_size = 2
+
+# INI files
+[*.ini]
+indent_size = 2
+
+# ENV files
+[*.env]
+trim_trailing_whitespace = false
+
 # CFF files
 [*.cff]
 indent_size = 2
