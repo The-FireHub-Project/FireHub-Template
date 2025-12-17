@@ -1,6 +1,6 @@
 # Contributors
 
-For more details, check the [GitHub Contributors Graph](../../graphs/contributors).
+For more details, check the [GitHub Contributors Graph](../../../graphs/contributors).
 
 ## How to contribute
 
