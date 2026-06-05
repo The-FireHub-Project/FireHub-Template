@@ -1,7 +1,7 @@
 <h1 align="center">
   <img
     src="https://raw.githubusercontent.com/The-FireHub-Project/the-firehub-project.github.io/master/resources/graphics/icons/firehub.svg"
-    width="30"
+    width="20"
     alt="FireHub Icon"
   />
   FireHub Template<br>
